@@ -2,8 +2,8 @@
 🚀 Software Engineer | 💻 Full-Stack Developer | 🌏 Vietnam
 
 I am a motivated full-stack developer with a strong foundation in web application development.
-I have experience in building, optimizing, and deploying scalable applications, including working with microservices 
-and chat systems. Always eager to learn and improve, I am passionate about writing clean, efficient code and keeping 
+I have experience in building, optimizing, and deploying scalable applications, including working with microservices
+and chat systems. Always eager to learn and improve, I am passionate about writing clean, efficient code and keeping
 up with the latest industry trends to deliver high-quality digital solutions.
 
 ## 🤝 Connect with me:
@@ -35,3 +35,12 @@ up with the latest industry trends to deliver high-quality digital solutions.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![SVN](https://img.shields.io/badge/SVN-809CC9?style=for-the-badge&logo=subversion&logoColor=white)
 ![Figm](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+## 📊 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colnat412&layout=compact&theme=radical)
+
+## 📊 GitHub Stats
+![Colnat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=colnat412&show_icons=true&theme=radical)
+
+## 📈 Contribution Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=colnat412&theme=radical)
