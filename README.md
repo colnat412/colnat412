@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I am a motivated full-stack developer with a strong foundation in web application development. I have experience in building, optimizing, and deploying scalable applications, including working with microservices and chat systems. Always eager to learn and improve, I am passionate about writing clean, efficient code and keeping up with the latest industry trends to deliver high-quality digital solutions.
 <!--
 **colnat412/colnat412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
