@@ -4,7 +4,7 @@
 I’m a results-driven full-stack developer with a strong foundation in building robust, scalable web applications. With hands-on experience in microservices and real-time systems like chat platforms, I specialize in delivering performant, maintainable solutions. Committed to writing clean, efficient code and continuously evolving my skill set, I stay at the forefront of modern development practices to create impactful digital experiences.
 
 ## 🤝 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanlocnguyendev/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanlocnguyendevl@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanlocnguyendev/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanlocnguyendev@gmail.com)
 
 ## 🛠️ Skill & Tools:
 ### 💻 Programming Languages:
@@ -23,6 +23,7 @@ I’m a results-driven full-stack developer with a strong foundation in building
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 ### 🗄️ Database:
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MS SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
