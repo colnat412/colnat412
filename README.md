@@ -1,10 +1,7 @@
 ## Hi there 👋, I'm Nguyen Tan Loc, you can call me Colnat
 🚀 Software Engineer | 💻 Full-Stack Developer | 🌏 Vietnam
 
-I am a motivated full-stack developer with a strong foundation in web application development.
-I have experience in building, optimizing, and deploying scalable applications, including working with microservices
-and chat systems. Always eager to learn and improve, I am passionate about writing clean, efficient code and keeping
-up with the latest industry trends to deliver high-quality digital solutions.
+I’m a results-driven full-stack developer with a strong foundation in building robust, scalable web applications. With hands-on experience in microservices and real-time systems like chat platforms, I specialize in delivering performant, maintainable solutions. Committed to writing clean, efficient code and continuously evolving my skill set, I stay at the forefront of modern development practices to create impactful digital experiences.
 
 ## 🤝 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanlocnguyendev/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanlocnguyendevl@gmail.com)
