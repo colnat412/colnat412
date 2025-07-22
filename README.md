@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Nguyen Tan Loc, you can call me Colnat
-🚀 Software Engineer | 💻 Full-Stack Developer | 🌏 Vietnam
+🚀 Software Engineer | 💻 Backend Developer | 🎨 Frontend Developer | 🌏 Vietnam
 
 I’m a results-driven full-stack developer with a strong foundation in building robust, scalable web applications. With hands-on experience in microservices and real-time systems like chat platforms, I specialize in delivering performant, maintainable solutions. Committed to writing clean, efficient code and continuously evolving my skill set, I stay at the forefront of modern development practices to create impactful digital experiences.
 
