@@ -1,7 +1,9 @@
 ## Hi there 👋, I'm Nguyen Tan Loc, you can call me Colnat
 🚀 Software Engineer | 💻 Backend Developer | 🎨 Frontend Developer | 🌏 Vietnam
 
-I’m a results-driven full-stack developer with a strong foundation in building robust, scalable web applications. With hands-on experience in microservices and real-time systems like chat platforms, I specialize in delivering performant, maintainable solutions. Committed to writing clean, efficient code and continuously evolving my skill set, I stay at the forefront of modern development practices to create impactful digital experiences.
+Software Engineer specializing in the TypeScript ecosystem, with core expertise in NestJS and React.js.
+Adept at building scalable web applications, robust CRM/BI platforms, and real-time features, leveraging modern
+databases and containerized deployment for end-to-end delivery.
 
 ## 🤝 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanlocnguyendev/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanlocnguyendev@gmail.com)
