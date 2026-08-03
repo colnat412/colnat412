@@ -67,5 +67,9 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colnat412&layout=compact&theme=radical)
+<p align="">
+  <img
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=colnat412&show_icons=true&hide_border=true&bg_color=00000000&include_all_commits=true&hide_title=true"
+    alt="GitHub Stats"
+  />
+</p>
