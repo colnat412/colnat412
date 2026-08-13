@@ -7,7 +7,7 @@
       alt="Gmail"
     />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <a href="https://www.linkedin.com/in/tanlocnguyendev">
     <img
       src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin-white&logoColor=white"
       alt="LinkedIn"
